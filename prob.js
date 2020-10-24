@@ -1,5 +1,6 @@
 function params() {
-  console.log('Hi,dude!')
+  console.log('Hi,dude you awesome!')
 }
 
 params()
+console.log()
