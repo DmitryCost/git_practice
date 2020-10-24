@@ -3,4 +3,4 @@ function params() {
 }
 
 params()
-console.log()
+console.log("hello")
